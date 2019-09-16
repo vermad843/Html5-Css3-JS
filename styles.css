@@ -6,12 +6,18 @@ body {
 .container {
   display: grid;
   grid-template-columns: 1fr;
+ 
 }
 
 .nav-wrapper {
   display: flex;
   justify-content: space-between;
-  padding: 38px;
+  padding : 10px;
+  border : 35px solid lightskyblue;
+  margin : 0;
+ 
+  
+
 }
 
 .left-side {
